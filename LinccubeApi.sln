@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28902.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinccubeApi", "LinccubeApi.csproj", "{72528568-4BF0-4F06-9AFF-781B19B3ECD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72528568-4BF0-4F06-9AFF-781B19B3ECD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72528568-4BF0-4F06-9AFF-781B19B3ECD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72528568-4BF0-4F06-9AFF-781B19B3ECD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72528568-4BF0-4F06-9AFF-781B19B3ECD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD6E88F6-7E67-4E61-93D6-1271D0BA5948}
+	EndGlobalSection
+EndGlobal
